@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <config>
 	<driver value="com.mysql.jdbc.Driver">com.mysql.jdbc.Driver</driver>
-	<url value="jdbc:mysql://localhost:3306/mercado_a"></url>
+	<url value="jdbc:mysql://localhost:3306/integramysql"></url>
 	<tabela value="produtos"></tabela>
 	<produto value="produto"></produto>
 	<preco value="preco"></preco>
 	<usuario value="root"></usuario>
-	<senha></senha>
+	<senha value="root"></senha>
 </config>
